@@ -136,7 +136,7 @@ This risk register demonstrates systematic tracking and classification of operat
 
 ---
 
-#### Risk Mitigation Roadmap
+### Risk Mitigation Roadmap
 
 ###### **Completed (Q4 2025 - Q1 2026):**
 - Incident management playbook development  
@@ -156,7 +156,7 @@ This risk register demonstrates systematic tracking and classification of operat
 
 ---
 
-#### Governance & Reporting
+### Governance & Reporting
 
 **Monthly Risk Review:**
 - Review open and closed incidents
