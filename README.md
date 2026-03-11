@@ -4,7 +4,7 @@ Welcome to my Operational Risk Management Portfolio. This is a collection of rea
 
 Each case documents the incident, the root cause analysis, risk assessment methodology, and control recommendations, just like in a real IT Risk Analyst or GRC Analyst role.
 
-## Case Studies
+#### Case Studies
 
 **Incident Reports:**
 * [Finance Platform Outage – Post Invoice Adjustment Tool](./incident-reports/incident-001-finance-tool-outage.md)
@@ -20,7 +20,7 @@ Each case documents the incident, the root cause analysis, risk assessment metho
 * Tier Escalation Framework
 * Incident Management Playbook
 
-## Tools & Skills Demonstrated
+#### Tools & Skills Demonstrated
 
 * Root cause analysis and risk assessment (likelihood × impact)
 * Incident lifecycle management (ITIL framework)
