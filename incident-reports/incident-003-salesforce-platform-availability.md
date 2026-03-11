@@ -3,7 +3,7 @@
 
 ---
 
-#### EXECUTIVE SUMMARY
+### EXECUTIVE SUMMARY
 
 Global platform availability incident affecting critical Salesforce application pages (Advertiser System Log and Moderation History). Support representatives experienced intermittent timeouts and loading errors preventing access to customer account audit trails and moderation records. High-priority escalation to Product resolved root cause within 6 days, with preventive measures implemented to prevent recurrence.
 
@@ -14,7 +14,7 @@ Global platform availability incident affecting critical Salesforce application 
 
 ---
 
-#### 1. INCIDENT DETAILS
+### 1. INCIDENT DETAILS
 
 | Field | Details |
 |-------|---------|
@@ -28,7 +28,7 @@ Global platform availability incident affecting critical Salesforce application 
 
 ---
 
-#### 2. RISK EVENT DESCRIPTION
+### 2. RISK EVENT DESCRIPTION
 
 **What Happened:**  
 Support representatives globally experienced errors and loading failures when accessing two critical Salesforce Lightning (LEX) application pages:
@@ -49,7 +49,7 @@ Pages either failed to load entirely or timed out, preventing representatives fr
 
 ---
 
-#### 3. IMPACT ASSESSMENT
+### 3. IMPACT ASSESSMENT
 
 | Impact Category | Assessment | Details |
 |-----------------|------------|---------|
@@ -71,7 +71,7 @@ Pages either failed to load entirely or timed out, preventing representatives fr
 
 ---
 
-#### 4. DETECTION & RESPONSE
+### 4. DETECTION & RESPONSE
 
 **Detection Method:**
 - User reports: Multiple representatives reporting identical loading errors
@@ -97,7 +97,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 5. ROOT CAUSE ANALYSIS
+### 5. ROOT CAUSE ANALYSIS
 
 **Identified Root Cause:**
 - **Salesforce Lightning (LEX) application performance degradation**
@@ -116,7 +116,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 6. REMEDIATION & RESOLUTION
+### 6. REMEDIATION & RESOLUTION
 
 **Resolution Actions:**
 - **Feb 11 PM:** Initial resolution reported (issue persisted for some users)
@@ -133,7 +133,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 7. RISK RATING
+### 7. RISK RATING
 
 | Factor | Rating | Justification |
 |--------|--------|---------------|
@@ -144,7 +144,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 8. RECOMMENDATIONS (Risk Mitigation)
+### 8. RECOMMENDATIONS (Risk Mitigation)
 
 **Immediate (0-30 days):**
 1. **Implement automated performance monitoring** for critical Salesforce LEX applications
@@ -182,7 +182,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 9. LESSONS LEARNED
+### 9. LESSONS LEARNED
 
 **What Worked Well:**
 - Rapid high-priority escalation to Product
@@ -199,7 +199,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 10. COMMUNICATION & STAKEHOLDER MANAGEMENT
+### 10. COMMUNICATION & STAKEHOLDER MANAGEMENT
 
 **Internal Communications:**
 - **Feb 11, 8:30 AM:** High-priority escalation to Product
@@ -221,7 +221,7 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### 11. ATTACHMENTS/EVIDENCE
+### 11. ATTACHMENTS/EVIDENCE
 
 - Incident broadcast communications (Slack, Email)
 - Related ticket: OPSSUP-5517
@@ -236,13 +236,13 @@ Support Operations → Product Engineering (high priority escalation)
 
 ---
 
-#### Portfolio Note
+## Portfolio Note
 
 This incident demonstrates:
-- ✅ High-priority escalation management
-- ✅ Global incident coordination and communication
-- ✅ Platform availability risk assessment
-- ✅ SLA transparency and stakeholder management
-- ✅ Preventive control recommendations
-- ✅ Business continuity considerations (alternative access methods)
-- ✅ Performance monitoring gap identification
+- High-priority escalation management
+- Global incident coordination and communication
+- Platform availability risk assessment
+- SLA transparency and stakeholder management
+- Preventive control recommendations
+- Business continuity considerations (alternative access methods)
+- Performance monitoring gap identification
