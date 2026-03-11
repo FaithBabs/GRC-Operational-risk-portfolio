@@ -29,19 +29,21 @@ Each case documents the incident, the root cause analysis, risk assessment metho
 * Risk documentation and reporting (risk registers, incident reports)
 * Technical tools: Salesforce, Jira, ServiceNow, Tableau, SQL, Swagger, IQL
 
-## Purpose of This Portfolio
-
-I'm building this as a showcase of my operational risk management and GRC skills as I transition from Technical Support into IT Risk Analyst and GRC Analyst roles. Every example here is based on real incidents I've managed, investigated, and documented.
-
-If you're a hiring manager or mentor, feel free to review the cases and reach out with feedback or questions!
-
-## Key Achievements
+#### Key Achievements
 
 * Reduced repeat operational incidents by 15% through systematic root cause analysis
 * Improved analyst onboarding efficiency by 30% through comprehensive documentation
 * Maintained 95%+ CSAT from internal stakeholders
 * Self-taught SQL and built enterprise reporting solutions
 * Selected by leadership to pilot AI-driven process improvement initiatives
+
+## Purpose of This Portfolio
+
+I'm building this as a showcase of my operational risk management and GRC skills as I transition from Technical Support into IT Risk Analyst and GRC Analyst roles. Every example here is based on real incidents I've managed, investigated, and documented.
+
+If you're a hiring manager or mentor, feel free to review the cases and reach out with feedback or questions!
+
+
 
 ---
 
